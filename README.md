@@ -1,6 +1,6 @@
 # Programming-Languages
 
-# Project 1
+# Project 1 | Lexer
 
 &emsp;&emsp;G++ Lexer with Flex
  
@@ -13,21 +13,21 @@
 
 ![image](https://user-images.githubusercontent.com/76924597/154798243-cd3a1ffe-fbc3-49d3-9b50-d95a60a1fbf9.png)
 
-# Project 2
+# Project 2 | Parser
 
-&emsp;&emsp;G++ Interpreter with Yacc and Flex
+&emsp;&emsp;G++ Parser with Yacc and Flex
   
     Syntax analyzer that accepts or rejects a given program in G++
 
 
-&emsp;&emsp;G++ Interpreter with Lisp
+&emsp;&emsp;G++ Parser with Lisp
 
     Implementation of a proper CFG parsing algorithm.
     
 ![image](https://user-images.githubusercontent.com/76924597/154798413-12dc5527-d012-4a9a-b09c-ec5715c829b4.png)
 
 
-# Project 3
+# Project 3 | Prolog
 
 &emsp;&emsp;Part 1: Simple expert system in Prolog for scheduling of classes.
 
